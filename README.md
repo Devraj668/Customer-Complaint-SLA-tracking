@@ -20,5 +20,10 @@ complaints, monitor SLA compliance, and analyze service performance.
 ## Dashboard
 An Excel dashboard was created to visualize KPIs and SLA breaches.
 
+## Future Improvements
+- Automation
+- SLA alerts
+- Tool integration
+
 ## Author
 Dev Nag
